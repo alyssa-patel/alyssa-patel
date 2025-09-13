@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/alyssa-patel-94b58024b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/alyssa-patel-94b58024b/)
+
 📧 Email: alyssadpatel@hotmail.co.uk
